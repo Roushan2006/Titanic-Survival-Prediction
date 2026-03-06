@@ -31,6 +31,7 @@ The following models were trained:
 * K-Nearest Neighbors (KNN)
 * Gaussian Naive Bayes
 * Decision Tree Classifier
+* Support Vector Machine (SVM)
 
 ---
 
